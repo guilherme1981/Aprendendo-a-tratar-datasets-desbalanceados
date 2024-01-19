@@ -31,4 +31,4 @@ Contributions to improve this project are welcome. Please adhere to the project'
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for more details.
-# Aprendendo-a-tratar-datasets-desbalanceados
+
